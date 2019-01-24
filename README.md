@@ -1,2 +1,4 @@
 # TestiOulu
-ensimmäinen testirepo, private
+ensimmäinen testirepo, public
+
+oma testprojekti toimiiko
